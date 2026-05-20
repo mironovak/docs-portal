@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install mkdocs mkdocs-material
+          pip install mkdocs mkdocs-material mkdocs-git-revision-date-localized-plugin
 
       - name: Deploy
         run: mkdocs gh-deploy --force
