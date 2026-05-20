@@ -1,7 +1,7 @@
 site_name: Портал документации
 site_description: Полная документация по проекту "Учёт успеваемости студентов"
 site_author: Миронова Ксения
-#site_url: https://github.com/mironovak/docs-portal
+site_url: https://github.com/mironovak/docs-portal
 
 # Тема оформления
 theme:
